@@ -1,9 +1,9 @@
 # backstage
 Project with HC-SR04 sensor for installation on backstage of the web series 2.
 
-Here is the list of materials used for building the backtage lights.
-
 # List of materials
+Here is the list of materials used for building the backstage lights.
+
 - 1x Arduino board + USB cable
 - 1x HC-SR04
 - Jumpers
